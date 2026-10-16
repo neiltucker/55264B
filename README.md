@@ -36,6 +36,8 @@ This course teaches Python programming with a strong emphasis on AI and machine-
 
 Hands-on work uses Google Colab for low-configuration development. Later modules introduce GitHub-based workflows and deployment of Streamlit applications to cloud-hosted platforms.
 
+> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time, receive instantaneous code walkthroughs and debugging tips, and get guided assistance across all coding exercises.
+
 ## At course completion
 
 Students will be able to:
