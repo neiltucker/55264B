@@ -32,7 +32,7 @@ Courseware Studio Self-paced eLearning supports Standalone HTML5, SCORM 1.2, SCO
 
 ## Course overview
 
-This course teaches Python programming with a strong emphasis on AI and machine-learning infrastructure. Students build clean Python code, work with data structures and data pipelines, consume REST APIs, integrate LLM services, apply debugging and exception-handling techniques, and deploy interactive Python applications.
+This 5-day course teaches Python programming with a strong emphasis on AI and machine-learning infrastructure. Students build clean Python code, work with data structures and data pipelines, consume REST APIs, integrate LLM services, apply debugging and exception-handling techniques, and deploy interactive Python applications.
 
 Hands-on work uses Google Colab for low-configuration development. Later modules introduce GitHub-based workflows and deployment of Streamlit applications to cloud-hosted platforms.
 
